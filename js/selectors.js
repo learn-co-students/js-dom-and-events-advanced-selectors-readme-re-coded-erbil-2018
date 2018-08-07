@@ -10,6 +10,10 @@ function ninjaBabySelector(){
   $('#baby-ninja')
 }
 
+function divSelector(){
+  $('.pics')
+}
+
 function firstListItem(){
-  $('div ul:first-child')
+  $('#pic-list ul:first-child')
 }
